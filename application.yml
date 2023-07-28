@@ -6,3 +6,5 @@ eureka:
     fetch-registry: true 
     service-url:
       defaultZone : http://localhost:11333/eureka
+bk:
+  java: hello jbk
